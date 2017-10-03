@@ -66,3 +66,4 @@ echo "welcome to Dockerized xCAT, please login with"
 echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 
 touch /var/lock/subsys/local
+rm /var/run/nologin
